@@ -1,5 +1,8 @@
 # Análise de satisfação de clientes
 
+## Sobre os dados
+Dados de 21-07-2019 a 24-07-2020, disponíveis no arquivo Dados_Satisfacao.xlsx no repositório.
+
 ## :scroll: Instruções 
 
 Imagine que você foi contratado por uma Instituição Financeira de grande porte para analisar a satisfação dos clientes com os serviços prestados pela empresa.  
